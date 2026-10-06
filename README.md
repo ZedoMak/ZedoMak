@@ -1,43 +1,71 @@
-## Hello, Nice to Meet You !! [](#--gifs-for-readme--)
+<div align="center">
 
-```
-████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
-████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
-████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
-▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
-█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
-▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
-█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
-██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
-████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
-██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
-████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
-████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
-█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
-█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
-▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Zerihun+Mekonen+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;I+build+AI-powered+tools+for+real+domains;Based+in+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing intro" />
 
-<br><br>
+<br/>
 
-<h1 align="center"> I'm Zerihun Mekonen</h1>
-<h3 align="center">A passionate backend developer from Ethiopia</h3>
+![Profile views](https://komarev.com/ghpvc/?username=ZedoMak&style=flat-square&color=58A6FF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zed--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zed-dev)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zerihunmekonen55@gmail.com)
 
-- 🌱 I’m currently learning **JavaScript, TypeScript and Next.js**
+</div>
 
-- 📫 How to reach me **zerihunmekonen55@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 About me
+
+I'm a backend-focused developer who enjoys building **domain-specific tools** rather than generic demos: RAG assistants, streaming apps, and internal systems that people actually use.
+
+- 🔭 Building: retrieval-augmented (RAG) systems with **FastAPI + PostgreSQL/pgvector**
+- 🌱 Leveling up: data engineering and production-grade AI pipelines
+- 🎓 Part of the **gheero AI Residency Program**
+- 💬 Ask me about: FastAPI, RAG, Next.js, Docker, PostgreSQL
+- 📫 Reach me: [zerihunmekonen55@gmail.com](mailto:zerihunmekonen55@gmail.com)
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**bunna-bankgpt**](https://github.com/ZedoMak/bunna-bankgpt) | RAG-based assistant that answers questions over banking documents | Python, FastAPI, pgvector |
+| [**personal_rag**](https://github.com/ZedoMak/personal_rag) | Chat with your own notes and knowledge base | Python, PostgreSQL, pgvector |
+| [**Mezmur app**](https://github.com/ZedoMak/REPO-NAME) | Streaming app for Ethiopian Orthodox hymns | Next.js, TypeScript |
+| [**Project 4**](https://github.com/ZedoMak/REPO-NAME) | One-line description | Stack |
+
+---
+
+## 🛠️ Tech stack
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zed-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zed-dev" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,nextjs,ts,react,tailwind,nodejs,git,linux,postman&theme=dark" alt="Tech stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZedoMak&theme=tokyonight)
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZedoMak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZedoMak&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ZedoMak&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+---
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZedoMak/ZedoMak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<div align="center">
+
+*"Build things that solve real problems, then make them beautiful."*
+
+</div>
