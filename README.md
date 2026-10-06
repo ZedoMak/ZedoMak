@@ -12,30 +12,20 @@
 
 ---
 
-## 👨‍💻 About me
+##  About me
 
 I'm a backend-focused developer who enjoys building **domain-specific tools** rather than generic demos: RAG assistants, streaming apps, and internal systems that people actually use.
 
-- 🔭 Building: retrieval-augmented (RAG) systems with **FastAPI + PostgreSQL/pgvector**
-- 🌱 Leveling up: data engineering and production-grade AI pipelines
-- 🎓 Part of the **gheero AI Residency Program**
-- 💬 Ask me about: FastAPI, RAG, Next.js, Docker, PostgreSQL
-- 📫 Reach me: [zerihunmekonen55@gmail.com](mailto:zerihunmekonen55@gmail.com)
+-  Building: retrieval-augmented (RAG) systems with **FastAPI + PostgreSQL/pgvector**
+-  Leveling up: data engineering and production-grade AI pipelines
+-  Ask me about: FastAPI, RAG, Next.js, Docker, PostgreSQL
+-  Reach me: [zerihunmekonen55@gmail.com](mailto:zerihunmekonen55@gmail.com)
 
 ---
 
-## 🚀 Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**bunna-bankgpt**](https://github.com/ZedoMak/bunna-bankgpt) | RAG-based assistant that answers questions over banking documents | Python, FastAPI, pgvector |
-| [**personal_rag**](https://github.com/ZedoMak/personal_rag) | Chat with your own notes and knowledge base | Python, PostgreSQL, pgvector |
-| [**Mezmur app**](https://github.com/ZedoMak/REPO-NAME) | Streaming app for Ethiopian Orthodox hymns | Next.js, TypeScript |
-| [**Project 4**](https://github.com/ZedoMak/REPO-NAME) | One-line description | Stack |
-
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,nextjs,ts,react,tailwind,nodejs,git,linux,postman&theme=dark" alt="Tech stack" />
@@ -43,7 +33,7 @@ I'm a backend-focused developer who enjoys building **domain-specific tools** ra
 
 ---
 
-## 📊 GitHub stats
+##  GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZedoMak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
@@ -56,7 +46,7 @@ I'm a backend-focused developer who enjoys building **domain-specific tools** ra
 
 ---
 
-## 🐍 Contribution snake
+## Contribution snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZedoMak/ZedoMak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
